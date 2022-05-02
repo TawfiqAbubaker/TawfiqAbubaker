@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TawfiqAbubaker
-- 👀 I’m interested in Artificial Intelligence, Interpolation and Automation.
-- 🌱 I’m currently learning Java
+- 👀 I'm a Second year Software Engineering student at the University of Ottawa with a profound interest for full stack development, multimedia and problem solving
 
 <!---
 TawfiqAbubaker/TawfiqAbubaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
