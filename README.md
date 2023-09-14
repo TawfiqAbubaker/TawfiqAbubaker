@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TawfiqAbubaker and I also go by the name Jordan
-- 👀 Third Year Software Engineering student at the University of Ottawa with a 9.6 CGPA 🥸
+- 👀 Fourth Year Software Engineering student at the University of Ottawa with a 9.6 CGPA 🥸
 - 🌟 Full Stack Developer with an interest for multimedia and problem solving
 - 🤝 Love for learning and exploring new technologies
 
