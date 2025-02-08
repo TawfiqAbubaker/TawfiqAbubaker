@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @TawfiqAbubaker and I also go by the name Jordan
-- 👀 Fifth Year Software Engineering student at the University of Ottawa with a 9.6 CGPA 🥸
-- 🌟 Full Stack Developer with an interest for multimedia and problem solving
-- 🤝 Love for learning and exploring new technologies
+# Hi, I'm Tawfiq! 👋
 
-<!---
-TawfiqAbubaker/TawfiqAbubaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+- 🔨 **Creator** of a popular Adobe After Effects plugin with **1200+ customers** and **$16,000+ in sales**.
+- 🎓 **uOttawa Software Engineering New Grad**.
+- 💻 **Skilled in:** Web/App Development, Machine Learning, Networking, and Security.
+- 🎥 **Passionate Youtuber & Photographer**, uOttahack Organizer.
+
+## 🛠️ Tech Stack
+
+### **Languages**
+`Python` `Go` `Java` `C++` `Rust` `PostgreSQL` `C` `JavaScript` `TypeScript` `Adobe ExtendScript` `HTML/CSS` `Kotlin`
+
+### **Technologies**
+`ReactJS/Native` `Docker` `Kubernetes` `AWS` `Node.js` `ExpressJS` `Angular` `Spring Boot`  
+`Kafka` `Redis` `NestJS` `eBPF` `PyTorch` `Flask`
